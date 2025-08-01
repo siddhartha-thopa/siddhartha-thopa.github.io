@@ -3,8 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+---
 
-Some information about you!
+Hi, I’m Siddhartha 👋  
+This blog is a space where I share my thoughts, opinions, and life experiences — especially around mental health, technology, and personal growth.
+
+Thanks for visiting!
 
 ### More Information
 
