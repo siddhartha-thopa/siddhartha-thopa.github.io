@@ -58,3 +58,9 @@ Your mind is not a machine. Don’t treat it like one.
 ---
 
 *Thanks for reading. Let me know your thoughts or experiences with tech and mental health — I’d love to hear from you.*
+<div class="commentbox"></div>
+
+<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+<script>
+  commentBox('5686635006001152-proj');
+</script>
